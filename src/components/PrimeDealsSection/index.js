@@ -4,8 +4,6 @@ import Loader from 'react-loader-spinner'
 
 import ProductCard from '../ProductCard'
 
-import Loader from 'react-loader-spinner'
-
 import './index.css'
 
 const apiStatusConstants = {
